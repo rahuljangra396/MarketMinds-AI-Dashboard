@@ -22,5 +22,6 @@ MarketMinds is an AI-powered financial dashboard that combines live market data,
 ## 🧰 Setup Instructions
 1. Clone or download the project:
    ```bash
-   git clone https://github.com/<your-username>/MarketMinds.git
+   git clone https://github.com/rahuljangra396/MarketMinds.git
    cd MarketMinds
+
